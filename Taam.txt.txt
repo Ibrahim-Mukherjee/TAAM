@@ -1,0 +1,43 @@
+TAAM is a Open Source Project Dedicated to the development of Web3 and related AI technologies which are the main concern of humanity today.
+
+This includes but is not limited to in the domains of :-
+
+Cybersecurity
+Self Driving Technology
+Alternatives to Blockchain
+Control Systems for drones, robots and other humanoid systems.
+Artificial General Intelligence
+Battery Management
+Renewable Energy Management
+Bitcoin Tracing through Transactions
+Face Detection for AR/VR
+Development of SLM's for use in devices.
+Development of Drivers for IoT devices
+TAAM works on the premise that Open Source Code is the only way to make code robust, auditable and beneficial to humanity. Companies working on closed source code often make mistakes, have to recall products, or worse in the case of self driving technology leading to fatal errors for consumers.
+
+Therefore, Open Source is the only way to make code auditable.
+
+TAAM is available to buy on the Stellar Network. Stellar has been chosen specifically for the work they do to make it cash exchangeable, and work with the UNHCR and other organizations.
+
+TAAM tokens are given to open source developers or can be bought by investors directly. :- https://stellar.expert/explorer/public/asset/TAAM-GC3L36F6JJOI5FIG27YAOYQRB7KKTAWUAUMQU3KBQFUBLDXLIA5TQAZH-1
+
+Contact me on ibrahim.mukherjee@outlook.com to commit code to the project or as an investor or buy directly on the Stellar Chain - coins are put out to buy regularly or contact me on ibrahim.mukherjee@outlook.com to buy coins.
+
+Stellar Foundation Information can be found here :- https://stellar.org/foundation
+
+TAAM source code is provided under the MIT License shown below :-
+
+Released under MIT License
+Copyright (c) 2013 Mark Otto.
+
+Copyright (c) 2017 Andrew Fong.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Developers committing code to the project can be hired directly to execute code.
+
+In addition, TAAM-Web3 works with the General Ai Co. :- https://thegeneralaico.wordpress.com to provide services to end users in cybersecurity, Machine Learning and other use cases under the brand names The General Ai Co. and Sy6.
