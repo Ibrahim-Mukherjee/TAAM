@@ -7,4 +7,4 @@ Join the Discord Server for Developers, Investors and General Talk :- https://di
 
 Website for TAAM :- https://taam-web3.carrd.co/
 
-
+![Logo](https://github.com/Ibrahim-Mukherjee/TAAM/assets/35773504/78386580-38df-4c3a-8830-cd2ee8ee9e6c)
