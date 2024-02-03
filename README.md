@@ -1,9 +1,11 @@
 # TAAM
-TAAM is a Open Source Project creating the next gen Web3 Infrastructure. 
+TAAM is a Open Source Project creating the next gen of Web3 Infrastructure. 
 
 Coin on Stellar :- https://stellar.expert/explorer/public/asset/TAAM-GC3L36F6JJOI5FIG27YAOYQRB7KKTAWUAUMQU3KBQFUBLDXLIA5TQAZH-1
 
 Join the Discord Server for Developers, Investors and General Talk :- https://discord.gg/KDFrKjrM
+
+Join the Telegram Channel :- Taam-Web3-OSS. 
 
 Website for TAAM :- https://taam-web3.carrd.co/
 
