@@ -9,7 +9,7 @@ Join the Telegram Channel :- Taam-Web3-OSS.
 
 Website for TAAM :- https://taam-web3.carrd.co/
 
-![Logo](https://github.com/Ibrahim-Mukherjee/TAAM/assets/35773504/78386580-38df-4c3a-8830-cd2ee8ee9e6c)
+![((minimaliset black and white logo)) A GALAXY INSI](https://github.com/Ibrahim-Mukherjee/TAAM/assets/35773504/f94109b1-5574-4d32-8ce4-88d3c2ec3524)
 
 ![JasperArt_2023-09-08_20 48 52_upscaled](https://github.com/Ibrahim-Mukherjee/TAAM/assets/35773504/1a416771-c4a7-4bc0-8338-df4c3b3fe386)
 
