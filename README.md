@@ -7,7 +7,7 @@ Join the Discord Server for Developers, Investors and General Talk :- https://di
 
 Join the Telegram Channel :- Taam-Web3-OSS. 
 
-Website for TAAM :- https://taam-web3.carrd.co/
+Website for TAAM :- [https://taam-web3.carrd.co/](https://taam-web3.crd.co/)
 
 ![((minimaliset black and white logo)) A GALAXY INSI](https://github.com/Ibrahim-Mukherjee/TAAM/assets/35773504/f94109b1-5574-4d32-8ce4-88d3c2ec3524)
 
