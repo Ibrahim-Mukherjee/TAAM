@@ -19,13 +19,17 @@ Challenge: Invent a new encryption algorithm that provides a security level beyo
 Bounty: TAAM 1,000,000 for an algorithm that withstands all known cryptographic attacks and is peer-reviewed by recognized experts in the field of cryptography.
 These bounties are designed to incentivize the development of solutions to specific, difficult problems in each of the three areas. The amounts are set to reflect the complexity and importance of the challenges, aiming to attract skilled individuals or teams to contribute their expertise to these cutting-edge fields.
 
-!!!LATEST UPDATES FOR THE PROJECT IN THE WHITE-PAPER !!! 
+LLMs: New Transformer Models. Create End-to-End New Transformer Models and alternative structures which prevent LLM's from Hallucinating. Provide Proof of Concept or End-To-End working Solution with a ArXiv Pre-Publication Paper or Simply CodeBase and working solution for audit. 
+
+SHA256 Alternative : Provide a SHA256 Alternative to Encryption. Either a Proof of Concept or End to End Working Solution. 
+
+!!!LATEST UPDATES FOR THE PROJECT IN THE WHITE-PAPER !!! (White Paper available on request, latest version will be updated here). 
 
 TAAM is a Open Source Project creating the next gen of Web3 Infrastructure. 
 
 Coin on Stellar :- https://stellar.expert/explorer/public/asset/TAAM-GC3L36F6JJOI5FIG27YAOYQRB7KKTAWUAUMQU3KBQFUBLDXLIA5TQAZH-1
 
-To Join as a developer, project manager, social media manager or a blockchain developer or buy orders email at - ibrahim-taam@proton.me
+To Join as a developer, project manager, social media manager or a blockchain developer or buy orders email at - taam_web3.tidiness372@passinbox.com
 
 Join the Discord Server for Developers, Investors and General Talk :- https://discord.gg/KDFrKjrM
 
