@@ -2,6 +2,8 @@
 
 Join Discord On :- https://discord.gg/VXKwdNhH4D
 
+Lead Contact for all questions :- taam_web3.tidiness372@passinbox.com
+
 Current Bounties Outstanding :- 
 
 Self Driving: Low-Contrast Object Detection Bounty
