@@ -37,9 +37,7 @@ Join the Telegram Channel :- Taam-Web3-OSS.
 
 Website for TAAM :- [https://taam-web3.crd.co/](https://taam-web3.crd.co/)
 
-![((minimaliset black and white logo)) A GALAXY INSI](https://github.com/Ibrahim-Mukherjee/TAAM/assets/35773504/f94109b1-5574-4d32-8ce4-88d3c2ec3524)
-
-![JasperArt_2023-09-08_20 48 52_upscaled](https://github.com/Ibrahim-Mukherjee/TAAM/assets/35773504/1a416771-c4a7-4bc0-8338-df4c3b3fe386)
+![Cinematic front wide shot of a cosmonaut in a medi-2](https://github.com/Ibrahim-Mukherjee/TAAM/assets/35773504/ca64a319-e940-49ca-90de-26dcac1ffaa6)
 
 Why did we float TAAM on the Stellar Blockchain? Stellar as a Foundation is working actively with UNHCR to provide cash in places without financial infrastructure like Ukraine.
 
