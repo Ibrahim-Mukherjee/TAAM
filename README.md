@@ -5,9 +5,9 @@ Join Discord On :- https://discord.gg/VXKwdNhH4D
 Lead Contact for all questions :- taam_web3.tidiness372@passinbox.com
 
 Current Bounties Outstanding :- 
-Programming Language :- Create a programming language similar to Vala. instead of C# like syntax, make the syntax as Python but it should compile to C similar to Vala. Create an IDE which can take code chunks like code grepper and put them inside "lego blocks" - the full code looks like a built lego house rather than lines of code. Work on any or all parts of this problem. The visual programming design, IDE, Python to C compiler or all of them together. contact for coin allocation at :- ibrahim-taam@proton.me
+Programming Language :- Create a programming language similar to Vala. instead of C# like syntax, make the syntax as Python but it should compile to C similar to Vala. Create an IDE which can take code chunks like code grepper and put them inside "lego blocks" - the full code looks like a built lego house rather than lines of code. Work on any or all parts of this problem. The visual programming design, IDE, Python to C compiler or all of them together. contact for coin allocation at :- taam_web3.tidiness372@passinbox.com
 
-Self Driving :- Smart Contract to store maintenance and IOT data and provide firmware updates to the car. blockchain of self driving cars on the cloud for better detection of objects surrounding the car, protect cars from being opened maliciously using keyless hacking or being able to maliciously control the car remotely. PoC required. email at ibrahim-taam@proton.me
+Self Driving :- Smart Contract to store maintenance and IOT data and provide firmware updates to the car. blockchain of self driving cars on the cloud for better detection of objects surrounding the car, protect cars from being opened maliciously using keyless hacking or being able to maliciously control the car remotely. PoC required. email at taam_web3.tidiness372@passinbox.com
 
 Self Driving: Low-Contrast Object Detection Bounty
 Challenge: Develop an algorithm that can reliably detect objects in low-contrast situations, such as a white truck in front of white clouds, to improve the safety of self-driving cars.
