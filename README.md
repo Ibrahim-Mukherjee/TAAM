@@ -38,7 +38,8 @@ Join the Discord Server for Developers, Investors and General Talk :- https://di
 
 Join the Telegram Channel :- Taam-Web3-OSS. 
 Website for TAAM :- [https://taam-web3.crd.co/](https://taam-web3.crd.co/)
-![Cinematic front wide shot of a cosmonaut in a medi-2](https://github.com/Ibrahim-Mukherjee/TAAM/assets/35773504/ca64a319-e940-49ca-90de-26dcac1ffaa6)
+![Uploading pexels-googledeepmind-17484975.jpg…]()
+
 
 Why did we float TAAM on the Stellar Blockchain? Stellar as a Foundation is working actively with UNHCR to provide cash in places without financial infrastructure like Ukraine. Stellar acts as our 
 
