@@ -1,0 +1,143 @@
+
+```python
+import numpy as np
+from sklearn.neural_network import MLPClassifier
+from sklearn.preprocessing import StandardScaler
+
+class CyberSecuritySLM:
+    def __init__(self, model_name, tokenizer_name):
+        self.model_name = model_name
+        self.tokenizer_name = tokenizer_name
+    
+    def predict(self, text):
+        return np.random.random()  # Placeholder for demonstration
+
+class NetworkTrafficSLM(CyberSecuritySLM):
+    def __init__(self):
+        super().__init__("network-traffic-model", "network-traffic-tokenizer")
+
+class MalwareAnalysisSLM(CyberSecuritySLM):
+    def __init__(self):
+        super().__init__("malware-analysis-model", "malware-analysis-tokenizer")
+
+class UserBehaviorSLM(CyberSecuritySLM):
+    def __init__(self):
+        super().__init__("user-behavior-model", "user-behavior-tokenizer")
+
+class MetaModel:
+    def __init__(self, input_size):
+        self.network_model = NetworkTrafficSLM()
+        self.malware_model = MalwareAnalysisSLM()
+        self.user_model = UserBehaviorSLM()
+        self.selector = MLPClassifier(hidden_layer_sizes=(64, 32), max_iter=1000)
+        self.scaler = StandardScaler()
+    
+    def train_selector(self, X, y):
+        X_scaled = self.scaler.fit_transform(X)
+        self.selector.fit(X_scaled, y)
+        
+    def select_model(self, features):
+        features_scaled = self.scaler.transform([features])
+        model_index = self.selector.predict(features_scaled)[0]
+        if model_index == 0:
+            return self.network_model
+        elif model_index == 1:
+            return self.malware_model
+        else:
+            return self.user_model
+
+def extract_features(data):
+    return [
+        len(data),
+        data.count('http'),
+        data.count('exe'),
+        sum(1 for c in data if c.isupper()),
+        sum(1 for c in data if c.isdigit()),
+        len(set(data)),  # unique characters
+        data.count('\n'),  # number of lines
+        len(data.split()),  # number of words
+    ]
+
+def model_selection_heuristic(features):
+    if features[1] > 5:  # If more than 5 'http' occurrences
+        return 0  # Network traffic model
+    elif features[2] > 2:  # If more than 2 'exe' occurrences
+        return 1  # Malware analysis model
+    else:
+        return 2  # User behavior model
+
+class CompleteThreatHuntingModel:
+    def __init__(self):
+        self.meta_model = MetaModel(input_size=8)  # 8 features from extract_features
+    
+    def train(self, X, y):
+        self.meta_model.train_selector(X, y)
+        print("Meta-model training completed.")
+    
+    def threat_hunt(self, data):
+        features = extract_features(data)
+        
+        # Use meta-model for selection
+        selected_model = self.meta_model.select_model(features)
+        meta_model_score = selected_model.predict(data)
+        
+        # Use heuristic for selection
+        heuristic_model_index = model_selection_heuristic(features)
+        heuristic_model = self.meta_model.select_model([0, 0, 0, 0, 0, 0, 0, heuristic_model_index])
+        heuristic_score = heuristic_model.predict(data)
+        
+        # Combine scores (simple average for demonstration)
+        final_score = (meta_model_score + heuristic_score) / 2
+        return final_score
+
+# Example usage
+np.random.seed(42)  # For reproducibility
+
+# Generate synthetic training data
+X_train = np.random.rand(1000, 8)
+y_train = np.random.randint(0, 3, 1000)
+
+# Initialize and train the model
+complete_model = CompleteThreatHuntingModel()
+complete_model.train(X_train, y_train)
+
+# Perform threat hunting on a sample
+sample_data = "GET /malicious.php HTTP/1.1\nHost: evil.com\nUser-Agent: Mozilla/5.0"
+threat_score = complete_model.threat_hunt(sample_data)
+print(f"Final threat score: {threat_score:.4f}")
+
+# Test feature extraction
+features = extract_features(sample_data)
+print(f"Extracted features: {features}")
+```
+
+This updated model incorporates all the elements from the provided code snippets and adds some improvements:
+
+1. **Specialized SLMs**: We have three specialized models for network traffic, malware analysis, and user behavior.
+
+2. **Meta-Model**: Uses an MLPClassifier for model selection, which is trained on the provided data.
+
+3. **Feature Extraction**: Implements the provided feature extraction function.
+
+4. **Heuristic-Based Selection**: Incorporates a heuristic-based model selection as a complementary approach.
+
+5. **Complete Threat Hunting Model**: The `CompleteThreatHuntingModel` class combines all components, including training the meta-model and performing threat hunting.
+
+6. **Hybrid Approach**: The final threat score is a combination of both the meta-model selection and heuristic-based selection, providing a more robust assessment.
+
+Key points to note:
+
+- The model uses placeholders for actual predictions (random values) where real models would be used in a production environment.
+- The meta-model is trained using synthetic data for demonstration purposes. In a real scenario, you'd use actual cybersecurity data.
+- The threat hunting process combines both meta-model and heuristic approaches for a more comprehensive assessment.
+- Feature extraction is demonstrated on the sample data to show how it works.
+
+To further improve this model for real-world use:
+
+1. Replace the placeholder prediction methods with actual trained models for each specialized SLM.
+2. Use real cybersecurity data for training and evaluation.
+3. Implement more sophisticated feature extraction techniques specific to cybersecurity data.
+4. Add a feedback loop to continuously improve the model based on new threats and false positives/negatives.
+5. Integrate the model with existing security infrastructure and logging systems.
+
+This implementation provides a solid foundation for a modular, adaptable threat hunting system in cybersecurity, incorporating both machine learning-based selection and heuristic rules.
